@@ -14,3 +14,5 @@
 
 (可替换 `1.jpeg` 和 `2.jpeg` 实现任意图像融合)
 
+
+copy from https://github.com/eesxy/Poisson_Image_Editing
